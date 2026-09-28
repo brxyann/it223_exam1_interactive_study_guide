@@ -1,2 +1,0 @@
-# it223_exam1_interactive_study_guide
-it223_exam1_interactive_study_guide html
